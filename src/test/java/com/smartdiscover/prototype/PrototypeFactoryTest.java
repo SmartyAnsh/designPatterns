@@ -28,8 +28,6 @@ public class PrototypeFactoryTest {
             e.printStackTrace();
         }
 
-
-
     }
 
 }
